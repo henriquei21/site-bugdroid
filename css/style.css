@@ -45,7 +45,7 @@ header > h1 {
 header > p{
     max-width: 500px;
     margin: auto;
-    padding: 0px 12px 0px 12px;
+    padding: 0px 12px 15px 12px;
     text-align: center;
     font: normal 1.2em var(--var-fpadrao);
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.397);
@@ -53,7 +53,7 @@ header > p{
 }
 
 nav{
-    padding: 25px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
     box-shadow: 0px 7px 7px #0000004a;
     background-color: var(--var-cor5);
 }
@@ -84,7 +84,7 @@ main{
 }
 
 main h1{
-    font: normal 2em var(--var-fidroid);
+    font: normal 1.8em var(--var-fidroid);
     color: var(--var-cor5);
 }
 
